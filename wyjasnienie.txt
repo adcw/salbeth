@@ -1,0 +1,2 @@
+Brakuje pliku Rzeka.txt z linią ""[DDorsz poszedł na solarium", dlatego, że zmiany dokonane
+na branchu dorsz nie są obecna na branchu master.
