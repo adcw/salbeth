@@ -1,0 +1,17 @@
+commit f6b3a799790de93d2f77c6bfd1cf18b1278ff320
+Author: Adrian <dawaadcw@gmail.com>
+Date:   Thu Apr 2 11:26:47 2020 +0200
+
+    ignorowanie .doc
+
+commit 128a55335fb33b21bd4523913ff9860db6970c50
+Author: Adrian <dawaadcw@gmail.com>
+Date:   Thu Apr 2 10:41:47 2020 +0200
+
+    ryba
+
+commit dad29f29910a11b5cbfeaace214331be83080eb2
+Author: Adrian <dawaadcw@gmail.com>
+Date:   Thu Apr 2 10:38:33 2020 +0200
+
+    First
